@@ -21,9 +21,6 @@ module.exports = `ù# 💫 About Me:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://visitcount.itsvg.in/api?id=AmadouDiadie95&icon=2&color=2)](https://visitcount.itsvg.in)
-
 Added the \`Mon 8 Oct 2023\`
 
 Last update on <#today_date>
