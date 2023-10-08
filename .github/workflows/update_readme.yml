@@ -1,0 +1,36 @@
+name: Update README every day at 3:37 AM
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 3 * * *' # This will run the workflow every day at 3:37 AM
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    steps:
+      - uses: actions/checkout@v3
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Update README.md file
+        run: |
+          node index.js > README.md
+        env:
+          CI: true
+      - name: commit changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: Amadou Diadie
+          author_email: Amadou.diadie04@gmail.com
+          force: false
+          signoff: false
+          message: ':memo: README.md updated by Amadou'
+        env:
+          # This is necessary in order to push a commit to the repo
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
