@@ -24,4 +24,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
+Added the \`Sun 08 Oct 2023\`
+
+Last update on <#today_date>
+
+<#day_before_new_years> days before new years
+
+<#gabot_signing>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
