@@ -26,9 +26,9 @@
 
 Added the \`Sun 08 Oct 2023\`
 
-Last update on Sat Sep 23 2023
+Last update on <#today_date>
 
-**100 day before 2024 ⏱** days before new years
+<#day_before_new_years> days before new years
 
-🤖 This README.md is updated with passion, by Gabot ❤️
+<#gabot_signing>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

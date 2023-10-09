@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron: '03 4 * * *' # This will run the workflow every day at 4:04 AM
+    - cron: '15 4 * * *' # This will run the workflow every day at 4:04 AM
 
 jobs:
   update-readme:
