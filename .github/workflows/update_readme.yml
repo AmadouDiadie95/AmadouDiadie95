@@ -33,4 +33,4 @@ jobs:
           message: ':memo: README.md updated by Amadou'
         env:
           # This is necessary in order to push a commit to the repo
-          GITHUB_TOKEN: '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'
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
