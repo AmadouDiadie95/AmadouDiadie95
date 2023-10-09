@@ -49,15 +49,6 @@ function getTodayDate() {
   return today.toDateString();
 }
 
-function getMySelf() {
-  // test if we are in a PAIR DAY
-  return today.getDate() % 2 === 0
-    ? Math.floor(Math.random() * 2)
-      ? 'penguin 🐧'
-      : 'bear 🐻'
-    : 'penguin bear 🐧🐻';
-}
-
 function getDBNWSentence() {
   const nextYear = today.getFullYear() + 1;
   const nextYearDate = new Date(String(nextYear));
