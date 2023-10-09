@@ -1,4 +1,4 @@
-module.exports = `ù# 💫 About Me:
+module.exports = `### 💫 About Me:
 - 🔭 I’m currently working on **LLMs/AI Fine tuning with Pytorch**
 - 🌱 I’m currently learning deeply **DeepLearning**
 - 👯 I’m looking to collaborate on **AI & Full-Stack Project**

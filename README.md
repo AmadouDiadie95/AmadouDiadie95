@@ -1,7 +1,7 @@
 <!--
 **AmadouDiadie95/AmadouDiadie95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-ù# 💫 About Me:
+### 💫 About Me:
 - 🔭 I’m currently working on **LLMs/AI Fine tuning with Pytorch**
 - 🌱 I’m currently learning deeply **DeepLearning**
 - 👯 I’m looking to collaborate on **AI & Full-Stack Project**
@@ -26,4 +26,9 @@
 
 Added the \`Sun 08 Oct 2023\`
 
+Last update on Sat Sep 23 2023
+
+**100 day before 2024 ⏱** days before new years
+
+🤖 This README.md is updated with passion, by Gabot ❤️
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
