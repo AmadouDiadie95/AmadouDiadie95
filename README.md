@@ -6,7 +6,7 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **Amadou.diadie04@gmail.com**
 <!-- - 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: .. -->
+- ⚡ Fun fact: ... -->
 
 ## 🌐 Socials:
 ## 🌐 Socials:
@@ -22,8 +22,8 @@
 
 Added the `Mon 8 Oct 2023`
 
-Last update on Mon Oct 09 2023
+Last update on Tue Oct 10 2023
 
-**84 day before 2024 ⏱** days before new years
+**82 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with hate
+🤖 This README.md is updated with wickedness
