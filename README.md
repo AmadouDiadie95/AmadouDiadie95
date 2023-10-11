@@ -6,7 +6,7 @@
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **Amadou.diadie04@gmail.com**
 <!-- - 😄 Pronouns: **He/Him** 
-- ⚡ Fun fact: .. -->
+- ⚡ Fun fact: ... -->
 
 ## 🌐 Socials:
 ## 🌐 Socials:
