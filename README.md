@@ -22,8 +22,8 @@
 
 Added the `Mon 8 Oct 2023`
 
-Last update on Wed Dec 06 2023
+Last update on Thu Dec 07 2023
 
-**26 day before 2024 ⏱** days before new years
+**25 day before 2024 ⏱** days before new years
 
-🤖 This README.md is updated with pleasure
+🤖 This README.md is updated with wickedness
